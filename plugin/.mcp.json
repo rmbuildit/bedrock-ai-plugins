@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bedrock-audit": {
+      "type": "http",
+      "url": "https://audit.bedrockai.xyz/mcp"
+    }
+  }
+}

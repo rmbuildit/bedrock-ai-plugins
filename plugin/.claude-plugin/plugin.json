@@ -1,0 +1,22 @@
+{
+  "name": "opportunity-audit",
+  "version": "1.2.0",
+  "description": "Find the three jobs most worth taking off your plate. A free two-minute audit for business owners.",
+  "author": {
+    "name": "Bedrock AI",
+    "url": "https://bedrockai.xyz"
+  },
+  "homepage": "https://bedrockai.xyz",
+  "license": "MIT",
+  "keywords": [
+    "small business",
+    "save time",
+    "admin",
+    "audit",
+    "owner",
+    "productivity"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "repository": "https://github.com/rmbuildit/bedrock-ai-plugins"
+}
