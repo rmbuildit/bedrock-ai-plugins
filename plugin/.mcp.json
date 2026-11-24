@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "bedrock-audit": {
+    "ai-opportunities-assessment": {
       "type": "http",
       "url": "https://audit.bedrockai.xyz/mcp"
     }

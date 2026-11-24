@@ -8,8 +8,8 @@
   },
   "plugins": [
     {
-      "name": "opportunity-audit",
-      "description": "Find the three jobs most worth taking off your plate. A free two-minute audit for business owners.",
+      "name": "ai-opportunities-assessment",
+      "description": "Find the three jobs most worth taking off your plate. A free two-minute assessment for business owners.",
       "source": "./plugin",
       "category": "productivity",
       "homepage": "https://bedrockai.xyz"

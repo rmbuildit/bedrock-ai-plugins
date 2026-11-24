@@ -2,7 +2,7 @@
 
 Free tools for owners of small and mid-sized businesses, from [Bedrock AI](https://bedrockai.xyz).
 
-## Opportunity Audit
+## AI Opportunities Assessment
 
 Find the three jobs most worth taking off your plate.
 
@@ -14,16 +14,16 @@ No sign-up, and it never asks for your email.
 
 ```
 /plugin marketplace add rmbuildit/bedrock-ai-plugins
-/plugin install opportunity-audit@bedrock-ai
+/plugin install ai-opportunities-assessment@bedrock-ai
 ```
 
 Then ask something like "Where could my business save time each week?"
 
-The plugin connects to the audit server at `https://audit.bedrockai.xyz/mcp` to show the tap-to-answer panel. If the connection is switched off or the panel can't show, it asks five short questions in chat instead.
+The plugin connects to the assessment server at `https://audit.bedrockai.xyz/mcp` to show the tap-to-answer panel. If the connection is switched off or the panel can't show, it asks five short questions in chat instead.
 
 ### Use it in Claude or ChatGPT without the plugin
 
-Add `https://audit.bedrockai.xyz/mcp` as a custom connector in Claude, or as an app in ChatGPT developer mode.
+Add `https://audit.bedrockai.xyz/mcp` as a custom connector in Claude, or in ChatGPT under Plugins, then + and "Add custom MCP server".
 
 ## Privacy and terms
 
@@ -31,7 +31,7 @@ Add `https://audit.bedrockai.xyz/mcp` as a custom connector in Claude, or as an 
 - Terms: https://bedrockai.xyz/terms-audit/
 - Contact: hello@bedrockai.xyz
 
-The audit doesn't store your answers.
+The assessment doesn't store your answers.
 
 ## Licence
 
